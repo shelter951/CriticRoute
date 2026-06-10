@@ -1,0 +1,19 @@
+# Python缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 模型检查点
+*.pt
+*.pth
+*.ckpt
+
+# 日志文件
+*.log
+wandb/
+
+# 临时文件
+*.tmp
+*.swp
+*~
+
